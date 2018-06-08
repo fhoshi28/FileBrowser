@@ -1,0 +1,10 @@
+C:\Users\intezx\Desktop\work_Git\FileBrowser\FileBrowser\bin\Debug\FileBrowser.exe.config
+C:\Users\intezx\Desktop\work_Git\FileBrowser\FileBrowser\bin\Debug\FileBrowser.exe
+C:\Users\intezx\Desktop\work_Git\FileBrowser\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Users\intezx\Desktop\work_Git\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csprojAssemblyReference.cache
+C:\Users\intezx\Desktop\work_Git\FileBrowser\FileBrowser\obj\Debug\FileBrowser.Form1.resources
+C:\Users\intezx\Desktop\work_Git\FileBrowser\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Users\intezx\Desktop\work_Git\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.cache
+C:\Users\intezx\Desktop\work_Git\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csproj.CoreCompileInputs.cache
+C:\Users\intezx\Desktop\work_Git\FileBrowser\FileBrowser\obj\Debug\FileBrowser.exe
+C:\Users\intezx\Desktop\work_Git\FileBrowser\FileBrowser\obj\Debug\FileBrowser.pdb
